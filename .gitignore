@@ -41,3 +41,32 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.exe
+FoodPlan2ShoppingList/bin/Debug/FoodPlan2ShoppingList.exe.config
+FoodPlan2ShoppingList/bin/Debug/FoodPlan2ShoppingList.pdb
+FoodPlan2ShoppingList/bin/Debug/FoodPlan2ShoppingList.vshost.exe.config
+FoodPlan2ShoppingList/bin/Debug/FoodPlan2ShoppingList.vshost.exe.manifest
+FoodPlan2ShoppingList/bin/Debug/HtmlAgilityPack.dll
+FoodPlan2ShoppingList/bin/Debug/HtmlAgilityPack.pdb
+FoodPlan2ShoppingList/bin/Debug/HtmlAgilityPack.xml
+FoodPlan2ShoppingList/bin/Release/FoodPlan2ShoppingList.exe.config
+FoodPlan2ShoppingList/bin/Release/FoodPlan2ShoppingList.pdb
+FoodPlan2ShoppingList/bin/Release/FoodPlan2ShoppingList.vshost.exe.config
+FoodPlan2ShoppingList/bin/Release/FoodPlan2ShoppingList.vshost.exe.manifest
+FoodPlan2ShoppingList/bin/Release/HtmlAgilityPack.dll
+FoodPlan2ShoppingList/bin/Release/HtmlAgilityPack.pdb
+FoodPlan2ShoppingList/bin/Release/HtmlAgilityPack.xml
+FoodPlan2ShoppingList/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+FoodPlan2ShoppingList/obj/Debug/FoodPlan2ShoppingList.csproj.FileListAbsolute.txt
+FoodPlan2ShoppingList/obj/Debug/FoodPlan2ShoppingList.csprojResolveAssemblyReference.cache
+FoodPlan2ShoppingList/obj/Debug/FoodPlan2ShoppingList.pdb
+FoodPlan2ShoppingList/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+FoodPlan2ShoppingList/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+FoodPlan2ShoppingList/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+FoodPlan2ShoppingList/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+FoodPlan2ShoppingList/obj/Release/FoodPlan2ShoppingList.csproj.FileListAbsolute.txt
+FoodPlan2ShoppingList/obj/Release/FoodPlan2ShoppingList.csprojResolveAssemblyReference.cache
+FoodPlan2ShoppingList/obj/Release/FoodPlan2ShoppingList.pdb
+FoodPlan2ShoppingList/obj/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+FoodPlan2ShoppingList/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+FoodPlan2ShoppingList/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
